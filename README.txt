@@ -6,6 +6,7 @@ Welcome to my project portfolio! This repository hosts various projects I have w
 
 The website is built to display different types of projects including web development, data analysis, machine learning, and more. Each project has its own dedicated page with a detailed description, code snippets, and visualizations.
 
+## How I Built the Website
 
 I built this website using the following steps:
 
@@ -32,5 +33,13 @@ I built this website using the following steps:
 
 5. **Access the Website**:
    - The website is available at: `https://your-username.github.io/my-website/`.
+
+## Technologies Used
+
+- **HTML5 Pretemplate**: Used an HTML5 pretemplate file as the foundation and modified it to meet my needs.
+- **CSS3**: For styling the website.
+- **JavaScript**: For interactive elements and functionality.
+- **Bootstrap**: For responsive design and layout.
+- **GitHub Pages**: For hosting the website.
 
 
