@@ -1,45 +1,33 @@
-# My Project Portfolio
-
-Welcome to my project portfolio! This repository hosts various projects I have worked on, and the website showcases them in an organized manner.
-
-## Website Overview
-
-The website is built to display different types of projects including web development, data analysis, machine learning, and more. Each project has its own dedicated page with a detailed description, code snippets, and visualizations.
-
-## How I Built the Website
-
-I built this website using the following steps:
-
-1. **Design and Develop Locally**:
-   - Used an HTML5 pretemplate file as the starting point.
-   - Modified the pretemplate to meet the specific needs of my projects.
-   - Created the necessary HTML, CSS, and JavaScript files for the main website and each project page.
-   - Structured the project directories to keep assets organized.
-
-2. **Create a GitHub Repository**:
-   - Logged into GitHub and created a new repository named `my-website`.
-   - Initialized the repository with a README file.
-
-3. **Upload Website Files**:
-   - Uploaded all website files (HTML, CSS, JS, images, etc.) directly through the GitHub web interface.
-   - Alternatively, you can clone the repository to your local machine, add the files, and push the changes.
-
-4. **Set Up GitHub Pages**:
-   - Went to the repository settings.
-   - Scrolled down to the **`Pages`** section.
-   - Under **`Source`**, selected the branch to use for GitHub Pages (usually `main` or `master`).
-   - Chose the root directory for the files.
-   - Saved the settings to enable GitHub Pages.
-
-5. **Access the Website**:
-   - The website is available at: https://kokou-hub.github.io/Portfolio/
-
-## Technologies Used
-
-- **HTML5 Pretemplate**: Used an HTML5 pretemplate file as the foundation and modified it to meet my needs.
-- **CSS3**: For styling the website.
-- **JavaScript**: For interactive elements and functionality.
-- **Bootstrap**: For responsive design and layout.
-- **GitHub Pages**: For hosting the website.
+Hyperspace by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
+So I've had the wireframe for this particular design kicking around for some time, but with all
+the other interesting (and in some cases, semi-secret) projects I've been working on it took me
+a little while to get to actually designing and coding it. Fortunately, things have eased up
+enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
+one-page design with a lot of color, a bit of animation, and an additional "generic" page template
+(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
+
+(* = not included)
+
+AJ
+aj@lkn.io | @ajlkn
+
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
